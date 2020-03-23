@@ -1,7 +1,7 @@
-# Addition to Testcafe-cucumber for those who need tests to run in parallel and produce a report
+# Addition to Testcafe-cucumber for parallel execution and HMTL reports
 
 
-This is an extension to [TestCafé](https://github.com/DevExpress/testcafe) into [CucumberJS](https://github.com/cucumber/cucumber-js) tests using TestCafe and Cucumber.
+This is an extension to [TestCafé and Cucumber](https://github.com/rquellh/testcafe-cucumber)
 
 
 
